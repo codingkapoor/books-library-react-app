@@ -1,5 +1,5 @@
 # Books Library Application
-Books library application in React.
+Simple books library application in React.
 
 # Launch @localhost:8080
 ```
@@ -8,5 +8,4 @@ npm start
 ```
 
 # Credits
-
 stephengrider's course on React.
